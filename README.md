@@ -38,7 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌟 What I'm Currently Working On
-- 🔬 **Master's Thesis** on Microservices Decomposition
+- 🔬 Completed - **Master's Thesis** on Microservices Decomposition
 - 🦀 Learning **Rust** for systems programming
 - ☁️ Building cloud-native applications with **Docker & GCP**
 - 📈 Preparing for **Backend Engineering** interviews
