@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 **MSc Software Engineering Graduate** based in **Berlin, Germany**
+- Previously worked at **Wayfair LLC Germany** and **T-Systems India**
 - 💻 **Backend Developer** passionate about building scalable systems
 - 🌱 Currently exploring **Java**, **Python**, **Spring Boot**, **FastAPI** and **microservices architecture**
 - 🎯 Seeking opportunities in **Backend/Cloud Engineering**
